@@ -1,0 +1,1 @@
+This are some funtions of lodash.
