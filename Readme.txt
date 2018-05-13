@@ -1,1 +1,1 @@
-This are some funtions of lodash.
+These are some functions of lodash.
